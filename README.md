@@ -68,3 +68,7 @@ If your agent has a shell, the Playwright CLI and Vercel's agent browser are gre
 ## Notes
 
 This repository is documentation and install help. Reflex ships as the published npm package `reflex-browser`; install it with the commands above. macOS is supported today; Windows is in beta.
+
+---
+
+Built by [Nitai Aharoni](https://nitaiaharoni.com), who builds AI systems, backends and infrastructure end to end. Available for freelance projects and part-time CTO work: **[nitaiaharoni.com](https://nitaiaharoni.com)**
